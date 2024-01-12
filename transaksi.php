@@ -24,7 +24,7 @@ if(isset($_POST['nama'])){
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>TopUp Fresieshop</title>
+<title>Transaksi Vit Store!!!</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round|Open+Sans">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -87,31 +87,31 @@ body {
               <div class="row">
                 <div class="col-md-6 form-group mb-3">
                   <label for="" class="col-form-label">Nama </label>
-                  <input type="text" class="form-control" name="nama" id="nama" placeholder="Masukan Nama">
+                  <input type="text" class="form-control" name="nama" id="nama" placeholder="Masukan Nama" required>
                 </div>
                 <div class="col-md-6 form-group mb-3">
                   <label for="" class="col-form-label">Nomor HP</label>
-                  <input type="text" class="form-control" name="no_hp" id="no_hp"  placeholder="Masukan Nomor HP">
+                  <input type="text" class="form-control" name="no_hp" id="no_hp"  placeholder="Masukan Nomor HP" required>
                 </div>
               </div>
 
               <div class="row">
                 <div class="col-md-12 form-group mb-3">
                   <label for="" class="col-form-label">Item</label>
-                  <input type="text" class="form-control" name="item" id="item" placeholder="Masukan Item">
+                  <input type="text" class="form-control" name="item" id="item" placeholder="Masukan Item" required>
                 </div>
               </div>
 
               <div class="row mb-5">
                 <div class="col-md-12 form-group mb-3">
                   <label for="message" class="col-form-label">Alamat</label>
-                  <textarea class="form-control" name="alamat" id="message" cols="30" rows="4"  placeholder="Masukan Alamat"></textarea>
+                  <textarea class="form-control" name="alamat" id="message" cols="30" rows="4"  placeholder="Masukan Alamat" required></textarea>
                 </div>
               </div>
               <div class="row justify-content-center">
                 <div class="col-md-5 form-group text-center">
                   <input type="submit" value="ORDER NOW" class="btn btn-block btn-primary rounded-0 py-2 px-4">
-                  <span class="submitting"></span>
+                  <span class="submitting" required="nama,no_hp,item,alamat"></span>
                 </div>
               </div>
             </form>
