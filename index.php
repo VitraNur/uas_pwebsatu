@@ -50,7 +50,7 @@
                 <h3>Kaos Polos Katun Kombat 24s</h3>
                 <p>Bahan: Katun Kombat 24s</p>
                 <p>Harga: Rp 50.000</p>
-                <a href="https://wa.me/085866399979" target="_blank" class="whatsapp-link">Beli Sekarang</a>
+                <a href="transaksi.php" target="_blank">Beli Sekarang</a>
             </div>
     
             <div class="product">
@@ -58,35 +58,35 @@
                 <h3>Kaos Polos Katun Kombat 30s</h3>
                 <p>Bahan: Katun Kombat 30s</p>
                 <p>Harga: Rp 45.000</p>
-                <a href="https://wa.me/085866399979" target="_blank" class="whatsapp-link">Beli Sekarang</a>
+                <a href="transaksi.php" target="_blank">Beli Sekarang</a>
             </div>
             <div class="product">
                 <img src="image/3.jpeg" alt="Kaos Polos 3">
                 <h3>Kaos Polos Combed 24s panjang</h3>
                 <p>Bahan: Katun Kombat 24s</p>
                 <p>Harga: Rp 55.000</p>
-                <a href="https://wa.me/085866399979" target="_blank" class="whatsapp-link">Beli Sekarang</a>
+                <a href="transaksi.php" target="_blank">Beli Sekarang</a>
             </div>
             <div class="product">
                 <img src="image/4.jpeg" alt="Kaos Polos 4">
                 <h3>Kaos Polos Combed 30s panjang</h3>
                 <p>Bahan: Katun Kombat 30s</p> 
                 <p>Harga: Rp 55.000</p>
-                <a href="https://wa.me/085866399979" target="_blank" class="whatsapp-link">Beli Sekarang</a>
+                <a href="transaksi.php" target="_blank">Beli Sekarang</a>
             </div>
             <div class="product">
                 <img src="image/5.jpeg" alt="Kaos Polos 5">
                 <h3>Hoodie 300gsm</h3>
                 <p>Bahan: Katun Kombed</p>
                 <p>Harga: Rp 55.000</p>
-                <a href="https://wa.me/085866399979" target="_blank" class="whatsapp-link">Beli Sekarang</a>
+                <a href="transaksi.php" target="_blank">Beli Sekarang</a>
             </div>
             <div class="product">
                 <img src="image/6.jpeg" alt="Kaos Polos 6">
                 <h3>Sweater Jumper</h3>
                 <p>Bahan: Katun Kombed</p>
                 <p>Harga: Rp 55.000</p>
-                <a href="https://wa.me/085866399979" target="_blank" class="whatsapp-link">Beli Sekarang</a>
+                <a href="transaksi.php" target="_blank">Beli Sekarang</a>
             </div>
         </div>
     </section>
